@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkred;
+}
+
+header, footer{
+    width: 100%;
+    background-color: floralwhite; 
+}
+ header{
+    height: 15vh;
+ }
+
+footer{
+    height: 5vh;
+}
+
+
+
